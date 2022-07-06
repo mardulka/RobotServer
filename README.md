@@ -1,4 +1,4 @@
-#Robot Server
+# Robot Server
 
 Code represents server application providing connection for robot clients - each robot has own thread. Whole code is in single file because of rules for final task submiting.
 
